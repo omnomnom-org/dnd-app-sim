@@ -2,7 +2,7 @@
 	"name": "dnd-app-sim-worker",
 	"description": "Cloudflare Worker fronting the sim-service container",
 	"dependencies": {
-		"hono": "4.13.13"
+		"hono": "4.13.16"
 	},
 	"devDependencies": {
 		"@cloudflare/vitest-plugin": "1.4.11",
